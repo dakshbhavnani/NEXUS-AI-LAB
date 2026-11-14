@@ -8,3 +8,4 @@ joblib
 python-dotenv
 pytest
 httpx
+pydantic-settings
