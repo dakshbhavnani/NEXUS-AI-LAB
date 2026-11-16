@@ -19,6 +19,7 @@ class DatasetSource(str, Enum):
     KAGGLE = "kaggle"
     HUGGINGFACE = "huggingface"
     UCI_REPOSITORY = "uci_repository"
+    OPENML = "openml"
     GENERATED = "generated"
     OTHER = "other"
 
